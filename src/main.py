@@ -20,15 +20,27 @@
 Este jogo explora um templo inca em homenagem ao deus Viracocha.
 """
 
+class Tenda:
+    """
+    Tenda guarda as joias
+    """
+    def __init__(self):
+        pass
+
+    def guarda(self):
+        return
+
+
 class Universo:
     """
-    Todo o universo do jogo
+    Universo
     """
     def __init__(self):
         pass
 
     def inicia(self):
-        ...
+        return
+
 
 
 if __name__ == "__main__":
