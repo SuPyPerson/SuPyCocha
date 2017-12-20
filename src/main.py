@@ -19,7 +19,18 @@
 """
 Este jogo explora um templo inca em homenagem ao deus Viracocha.
 """
+class Baralho:
+    """
+    Cartas: artefato, tesouro e perigo.
+    """
+    def __init__(self):
+        pass
 
+    def chama(self):
+        self.artefato.revele_se()
+
+
+class Mesa:
 class Tenda:
     """
     Tenda guarda as joias
@@ -33,14 +44,30 @@ class Tenda:
 
 class Universo:
     """
-    Todo o universo do jogo
+    Onde as cartas são apresentadas
     """
     def __init__(self):
         pass
 
-    def inicia(self):
-        ...
+    def deposita(self):
+        return
 
+
+class Baralho:
+    """
+    Conjunto de cartas para um jogo.
+    """
+    def __init__(self):
+        pass
+
+    def embaralhar(self):
+        ...
+class Universo:
+    """
+    Todo o universo do jogo
+    """
+def inicia(self):
+    ...
 
 
 if __name__ == "__main__":
