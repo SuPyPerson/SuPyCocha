@@ -33,13 +33,13 @@ class Tenda:
 
 class Universo:
     """
-    Universo
+    Todo o universo do jogo
     """
     def __init__(self):
         pass
 
     def inicia(self):
-        return
+        ...
 
 
 
