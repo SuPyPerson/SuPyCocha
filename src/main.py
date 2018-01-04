@@ -41,15 +41,22 @@ class Mesa:
         return
 
 
-class Universo:
+class Baralho:
     """
-    Todo o universo do jogo
+    Conjunto de cartas para um jogo.
     """
     def __init__(self):
         pass
 
-    def inicia(self):
+    def embaralhar(self):
         ...
+class Universo:
+    """
+    Todo o universo do jogo
+    """
+def inicia(self):
+    ...
+
 
 
 
