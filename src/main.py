@@ -19,6 +19,15 @@
 """
 Este jogo explora um templo inca em homenagem ao deus Viracocha.
 """
+class Baralho:
+    """
+    Cartas: artefato, tesouro e perigo.
+    """
+    def __init__(self):
+        pass
+
+    def chama(self):
+        self.artefato.revele_se()
 
 class Universo:
     """
@@ -30,15 +39,7 @@ class Universo:
     def inicia(self):
         ...
 
-class Baralho:
-    """
-    Cartas: artefato, tesouro e perigo.
-    """
-    def __init__(self):
-        pass
 
-    def chama(self):
-        self.artefato.revele_se()
 
 
 if __name__ == "__main__":
