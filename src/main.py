@@ -20,6 +20,18 @@
 Este jogo explora um templo inca em homenagem ao deus Viracocha.
 """
 
+
+class Mesa:
+    """
+    Onde as cartas são apresentadas
+    """
+    def __init__(self):
+        pass
+
+    def deposita(self):
+        return
+
+
 class Universo:
     """
     Todo o universo do jogo
