@@ -38,7 +38,7 @@ class Baralho:
         pass
 
     def chama(self):
-        self.artefato.revele_se()p
+        self.artefato.revele_se()
 
 
 if __name__ == "__main__":
