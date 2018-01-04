@@ -27,9 +27,6 @@ class Baralho:
           self.artefato.revele_se()
 
 
-
-
-
 class Universo:
     """
     Todo o universo do jogo
