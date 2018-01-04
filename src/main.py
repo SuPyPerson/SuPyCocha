@@ -40,4 +40,4 @@ class Universo:
 
 
   if __name__ == "__main__":
-      Baralho().inicia()
+      Universo().inicia()
