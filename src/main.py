@@ -22,7 +22,7 @@ Este jogo explora um templo inca em homenagem ao deus Viracocha.
 
 class Baralho:
    """
-      Conjunto de cartas do jogo
+      Cartas: artefato, tesouro e perigo.
    """
    def __init__(self):
        pass
