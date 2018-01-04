@@ -31,6 +31,18 @@ class Baralho:
 
 
 class Mesa:
+class Tenda:
+    """
+    Tenda guarda as joias
+    """
+    def __init__(self):
+        pass
+
+    def guarda(self):
+        return
+
+
+class Universo:
     """
     Onde as cartas são apresentadas
     """
@@ -56,9 +68,6 @@ class Universo:
     """
 def inicia(self):
     ...
-
-
-
 
 
 if __name__ == "__main__":
