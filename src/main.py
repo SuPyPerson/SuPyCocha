@@ -39,5 +39,5 @@ class Universo:
 
 
 
-if __name__ =="__main__":
-    Universo().inicia()
+  if __name__ == "__main__":
+      Baralho().inicia()
