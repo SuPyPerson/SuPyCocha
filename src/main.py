@@ -1,4 +1,4 @@
-##! /usr/bin/env python
+''##! /usr/bin/env python
 # -*- coding: UTF8 -*-
 # Este arquivo é parte do programa SuPyCocha
 # Copyright 2013-2015 Carlo Oliveira <carlo@nce.ufrj.br>,
@@ -21,6 +21,16 @@ Este jogo explora um templo inca em homenagem ao deus Viracocha.
 """
 
 class Universo:
+   """Conjunto de cartas do jogo
+   """
+      def chama(self):
+          self.artefato.revele_se()
+
+
+
+
+
+class Universo:
     """
     Todo o universo do jogo
     """
@@ -29,6 +39,7 @@ class Universo:
 
     def inicia(self):
         ...
+
 
 
 if __name__ == "__main__":
