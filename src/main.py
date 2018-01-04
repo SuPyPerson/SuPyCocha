@@ -20,14 +20,14 @@
 Este jogo explora um templo inca em homenagem ao deus Viracocha.
 """
 
-class Universo:
+class Baralho:
     """
-    Todo o universo do jogo
+    Conjunto de cartas para um jogo.
     """
     def __init__(self):
         pass
 
-    def inicia(self):
+    def embaralhar(self):
         ...
 
 
