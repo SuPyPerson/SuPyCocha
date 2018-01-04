@@ -20,7 +20,7 @@
 Este jogo explora um templo inca em homenagem ao deus Viracocha.
 """
 
-class Universo:
+class Baralho:
    """Conjunto de cartas do jogo
    """
       def chama(self):
