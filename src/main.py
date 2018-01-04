@@ -30,6 +30,16 @@ class Universo:
     def inicia(self):
         ...
 
+class Baralho:
+    """
+    Cartas: artefato, tesouro e perigo.
+    """
+    def __init__(self):
+        pass
+
+    def chama(self):
+        self.artefato.revele_se()p
+
 
 if __name__ == "__main__":
     Universo().inicia()
