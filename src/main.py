@@ -42,6 +42,15 @@ class Tenda:
         return
 
 
+class Baralho:
+    """
+   Cartas de perigo e tesouro
+    """
+    def __init__(self):
+        pass
+
+    def apresenta_a_carta(self):
+        ...
 class Universo:
     """
     Onde as cartas são apresentadas
