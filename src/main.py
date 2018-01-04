@@ -1,4 +1,4 @@
-''##! /usr/bin/env python
+##! /usr/bin/env python
 # -*- coding: UTF8 -*-
 # Este arquivo é parte do programa SuPyCocha
 # Copyright 2013-2015 Carlo Oliveira <carlo@nce.ufrj.br>,
