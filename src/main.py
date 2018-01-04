@@ -29,6 +29,13 @@ class Baralho:
 
     def embaralhar(self):
         ...
+class Universo:
+    """
+    Todo o universo do jogo
+    """
+def inicia(self):
+    ...
+
 
 
 if __name__ == "__main__":
